@@ -1,10 +1,10 @@
 # ADM Add-Apps
 
-	<b>for <font color="#ef9800">Ubuntu Linux</font></b>
+	for | Ubuntu Linux
 
-	<b>written by <font color="#0068dc">Apollon Data Metrics (AGY)</font></b>
+	written by | Apollon Data Metrics (AGY)
 	
-	<a href="https://www.facebook.com/apollondma" target="_new">https://www.facebook.com/apollondma</a>
+	https://www.facebook.com/apollondma
 
 # Installation (from Terminal)..
 
