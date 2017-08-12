@@ -8,7 +8,7 @@
 
 # Installation (from Terminal)..
 
-	$ bash <(curl -s <url>)
+	$ bash <(curl -s https://raw.githubusercontent.com/alectramell/admaddapps/master/install.sh)
 
 # First Usage (from Terminal)..
 
